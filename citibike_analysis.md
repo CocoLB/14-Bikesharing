@@ -11,26 +11,26 @@ with a high ratio of Customers/Suscribers. As tourist attractions and business d
 over Greater Des Moines (compareed to Mahattan in NYC), the stations and the bikes will be spreaded,
 and not concentrated downtown, as well.
 
-## NY August Citi Bikes
+## NYC August Citi Bikes
 The number of records is 2,344,224 in August. 
         - 1,530,272 - male
         - 588,431 - female
         - 225,521 - gender unknown
 
-## NY/Des Moines Population
+## NYC/Des Moines Population
 NYC: 8,336,817
 DM: 214,237    
 
-## NY/DM Gender Comparison
+## NYC/DM Gender Comparison
 NYC: 52.3%
 DM: 50.8%
 Similar Breakdown. So we can anticipate that the trends following any new business relatively to gender diversity will be similar in NYC and Des Moines. Most suscribers are residents so this part of the business could follow similar trends.
 
-## NY August Peak Hours
+## NYC August Peak Hours
 In general (combining both Customers and suscribers), we can see that most of the recoprds hapen during the day, so all maintenace and repairs work should happen during the night, between 1am and 5am.
 Suscribers trends follow business hours, so the records peak between 7am and 9am, and between 4pm and 7pm., whereas Customers records peak between 11am and 7pm.
 
-## NY Customers vs Suscribers
+## NYC Customers vs Suscribers
 Even if there are fewer trips made by Customers in NYC (ratio of 4,25 suscriber to customer), these ones last far longer averaging 2,040 to 819 for Suscribers. When we sum all the trip duration, the ratio is down to 1.8.
 
 ## NYC/DM Tourists Comparison
