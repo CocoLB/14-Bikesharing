@@ -6,7 +6,7 @@ https://public.tableau.com/profile/coco.levant#!/vizhome/Bikesharing_15919931995
 Citi Bike is a very profitable business in New York City, with a total of 2,344,224 records 
 for the month of August only. Des Moines is a far smaller city, with a population more than 40 times 
 smaller, but it's still comparable with a similar gender diversity, and a vast amount of tourists 
-(35 to 1 in Des Moines, compared to 8 to 14 in NYC). Citi Bike vcan be profitable in Des Moines too 
+(35 to 1 in Des Moines, compared to 8 to 14 in NYC). Citi Bike can be profitable in Des Moines too 
 with a high ratio of Customers/Suscribers. As tourist attractions and business districts are spreaded 
 over Greater Des Moines (compareed to Mahattan in NYC), the stations and the bikes will be spreaded,
 and not concentrated downtown, as well.
